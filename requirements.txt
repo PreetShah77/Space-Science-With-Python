@@ -1,0 +1,11 @@
+numpy
+scipy
+
+jupyterlab
+
+matplotlib
+
+spicepy
+spiceypy
+
+pandas
